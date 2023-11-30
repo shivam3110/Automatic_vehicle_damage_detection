@@ -3,7 +3,7 @@
 ## Overview
 The Automatic Vehicle Damage Detection project addresses the need for an efficient and automated solution to identify and assess the damage to vehicles using computer vision techniques. Accurate assessment of vehicle damage is crucial for insurance claims, pre-purchase inspections, and overall safety.
 
-![image](https://github.com/shivam3110/Automatic-vehlice-damage-detection/assets/56818878/1135f448-7d7a-44c2-bcb0-b9cd0dee737c)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/1135f448-7d7a-44c2-bcb0-b9cd0dee737c)
 
 ### Problem Statement
 In the context of vehicle damage detection, the primary challenges include:
@@ -17,7 +17,7 @@ This project employs instance segmentation, a computer vision technique that not
 2. **Instance Segmentation:** Implementing instance segmentation using state-of-the-art techniques to accurately identify and segment damaged areas on vehicles.
 3. **Results Analysis:** Providing detailed results and performance metrics in the project notebooks to assist users in understanding the model's effectiveness.
 
-![image](https://github.com/shivam3110/Automatic-vehlice-damage-detection/assets/56818878/70b982d9-cef5-43e3-9085-936a4b6ff062)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/70b982d9-cef5-43e3-9085-936a4b6ff062)
 
 
 
@@ -74,11 +74,11 @@ The project provides Jupyter notebooks that demonstrate how to perform vehicle d
 ## Results
 The project has achieved promising results in identifying and segmenting damaged areas on vehicles. Detailed results and performance metrics can be found in the project notebooks.
 
-![image](https://github.com/shivam3110/Automatic-vehlice-damage-detection/assets/56818878/0e7bbbcf-65d9-42e2-bb75-3e29f5968301)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detectionassets/56818878/0e7bbbcf-65d9-42e2-bb75-3e29f5968301)
 
-![image](https://github.com/shivam3110/Automatic-vehlice-damage-detection/assets/56818878/6474ed51-4857-44ac-ba2f-371675b05098)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/6474ed51-4857-44ac-ba2f-371675b05098)
 
-![image](https://github.com/shivam3110/Automatic-vehlice-damage-detection/assets/56818878/a8ac86af-9679-4aee-a6e6-7896e84cb02d)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/a8ac86af-9679-4aee-a6e6-7896e84cb02d)
 
 
 
