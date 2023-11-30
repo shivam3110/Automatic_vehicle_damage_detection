@@ -25,9 +25,6 @@ This project employs instance segmentation, a computer vision technique that not
 
 
 
-
-
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -82,7 +79,6 @@ The project has achieved promising results in identifying and segmenting damaged
 ![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/0aa8553a-a92d-4049-bb21-32785268d19c)
 
 ![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/d93a501b-e480-421c-90bd-b5a7c8f295ab)
-
 
 ## Contributing
 Contributions to this project are welcome! If you would like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
