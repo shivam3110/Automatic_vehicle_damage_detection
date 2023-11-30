@@ -4,6 +4,8 @@
 The Automatic Vehicle Damage Detection project addresses the need for an efficient and automated solution to identify and assess the damage to vehicles using computer vision techniques. Accurate assessment of vehicle damage is crucial for insurance claims, pre-purchase inspections, and overall safety.
 
 ![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/1135f448-7d7a-44c2-bcb0-b9cd0dee737c)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/c5d08abe-d443-4394-8287-a7899c5b2776)
+
 
 ### Problem Statement
 In the context of vehicle damage detection, the primary challenges include:
