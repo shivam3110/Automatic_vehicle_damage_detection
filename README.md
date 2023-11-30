@@ -79,15 +79,9 @@ The project provides Jupyter notebooks that demonstrate how to perform vehicle d
 ## Results
 The project has achieved promising results in identifying and segmenting damaged areas on vehicles. Detailed results and performance metrics can be found in the project notebooks.
 
-![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/d9bb0644-0b1b-4cad-bfcb-39d5bac779ab)
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/0aa8553a-a92d-4049-bb21-32785268d19c)
 
-
-![image](https://github.com/shivam3110/Automatic_vehicle_damage_detectionassets/56818878/0e7bbbcf-65d9-42e2-bb75-3e29f5968301)
-
-![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/6474ed51-4857-44ac-ba2f-371675b05098)
-
-![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/a8ac86af-9679-4aee-a6e6-7896e84cb02d)
-
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/d93a501b-e480-421c-90bd-b5a7c8f295ab)
 
 
 ## Contributing
