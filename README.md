@@ -18,7 +18,11 @@ This project employs instance segmentation, a computer vision technique that not
 2. **Instance Segmentation:** Implementing instance segmentation using state-of-the-art techniques to accurately identify and segment damaged areas on vehicles.
 3. **Results Analysis:** Providing detailed results and performance metrics in the project notebooks to assist users in understanding the model's effectiveness.
 
-![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/70b982d9-cef5-43e3-9085-936a4b6ff062)
+
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/70f59a2f-9b90-4d7e-b649-b1a186dcde35)
+
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/1fb21eab-99b0-4c22-8843-7577b482f85f)
+
 
 
 
@@ -74,6 +78,9 @@ The project provides Jupyter notebooks that demonstrate how to perform vehicle d
 
 ## Results
 The project has achieved promising results in identifying and segmenting damaged areas on vehicles. Detailed results and performance metrics can be found in the project notebooks.
+
+![image](https://github.com/shivam3110/Automatic_vehicle_damage_detection/assets/56818878/d9bb0644-0b1b-4cad-bfcb-39d5bac779ab)
+
 
 ![image](https://github.com/shivam3110/Automatic_vehicle_damage_detectionassets/56818878/0e7bbbcf-65d9-42e2-bb75-3e29f5968301)
 
